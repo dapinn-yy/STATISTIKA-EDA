@@ -4,6 +4,6 @@ git mv *.csv monthly_data/
 
 git status
 
-git add.
+git add .
 git commit -m "Organize monthly CSVs into monthly_data folder"
 git push
